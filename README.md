@@ -8,6 +8,12 @@ This repository provides a structured, implementation-focused treatment of linea
 The emphasis is on understanding how linear algebra operates inside real computational systems. 
 Rather than presenting formulas in isolation, each concept is connected to code, numerical examples, and practical machine learning applications.
 
+## Project Roadmap
+
+The structured learning roadmap for this series is available here:
+
+[View the Roadmap](docs/roadmap.md) 
+
 ## The objective is not memorization. The objective is computational clarity. ##
 
 # Scope of the Series
